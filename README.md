@@ -9,9 +9,7 @@
 
 ### Connect me via
 [FaceBook](http://facebook.com/chodoiem1505/)
-[Email](maillto:congvo.heaven@gmail.com)
-
-![Alt Text](C:\Users\Ponyo Dory\Pictures)
+[Email](congvo.heaven@gmail.com)
 
 #### © 2021 Heaven
 	
