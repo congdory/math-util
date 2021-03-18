@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # welcome to Math-util responsitory. This is repo offers various math methods used in your projects as the helper ones.
 
 ###### _You will find in this repo the following stuff:_
@@ -10,3 +11,8 @@
 ### Connect me via
 [FaceBook](http://facebook.com/chodoiem1505/)
 	
+=======
+## welcome to Math-util responsitory. This is repo offers various math methods used in your projects as the helper ones.
+
+### You will find in this repo:
+>>>>>>> a76e84558fcad7bdd38d0d18d037bbe34b741a89
