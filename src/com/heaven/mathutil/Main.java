@@ -3,26 +3,26 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.heaven;
+package com.heaven.mathutil;
 
 /**
  *
  * @author Ponyo Dory
  */
-public class MathUtil {
+public class Main {
 
     //at here, it is class version-copy of Math, it has all function help for math
     public static final double PI = 3.1415;
 
     public static long getFactorial(int n) {
-        long result = 1;
+        long result = 0;
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("n must be between 0..20");
         }
         if (n == 0 || n == 1) {
             return 1;
         }
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             result *= i;
         }
         return result;

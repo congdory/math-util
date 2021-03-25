@@ -8,8 +8,7 @@
 #### Have fun with my code and feel free to give me any comments
 
 ### Connect me via
-[FaceBook](http://facebook.com/chodoiem1505/)
-[Email](congvo.heaven@gmail.com)
+[FaceBook](http://facebook.com/chodoiem1505/)  
+[Email](mailto: congvo.heaven@gmail.com)
 
 #### © 2021 Heaven
-	
